@@ -8,3 +8,5 @@
 -ular
 -ulat
 -cacing
+-babi
+-kambing
