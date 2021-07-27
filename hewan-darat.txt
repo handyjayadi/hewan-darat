@@ -1,7 +1,10 @@
 * HEWAN BERKAKI EMPAT
 -sapi
-
+-kambing
 * HEWAN BERKAKI DUA
 -ayam
-
+-bebek
 * HEWAN TIDAK BERKAKI
+-ular
+-ulat
+-cacing
